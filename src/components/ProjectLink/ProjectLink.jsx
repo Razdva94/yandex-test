@@ -10,7 +10,7 @@ const ProjectLink = () => {
       <div className='line line_margin' />
       <a
         className='project__link'
-        href='https://github.com/Razdva94/Polina-project'
+        href='http://Razdva94.github.io/yandex-test'
         target='_blank'
         rel='noreferrer'
       >
