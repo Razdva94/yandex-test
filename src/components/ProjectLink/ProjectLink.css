@@ -1,0 +1,29 @@
+.project{
+  padding: 0 70px;
+  margin-bottom: 70px;
+}
+
+.project__link{
+  text-decoration: none;
+  font-size: 40px;
+  margin: 30px 0;
+  color: #6c22dc;
+  display: block;
+}
+
+.project__link:hover{
+  transition: opacity 1s;
+  opacity: .5;
+}
+
+.project__link-arrow {
+  color: #6c22dc;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: -1.2px;
+  text-decoration: none;
+  transition: opacity 1s;
+  margin-left: 20px;
+}

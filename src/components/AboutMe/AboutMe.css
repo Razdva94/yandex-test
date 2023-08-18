@@ -1,0 +1,50 @@
+.title {
+  margin: 0;
+  color: rgb(13, 151, 128);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.88px;
+}
+
+.line {
+  width: 100%;
+  height: 1px;
+  background-color: #247d43;
+}
+
+
+.line_margin {
+  margin-top: 23px;
+}
+
+.about-me{
+  padding: 110px 70px;
+}
+
+.about-me__photo{
+  width: 350px;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.about-me__photo-container{
+  margin: 0;
+  margin-top: 30px;
+  max-width: 350px;
+}
+
+.about-me__photo-text{
+  color: #24437d;
+}
+
+.about-me__albom{
+  display: flex;
+  gap: 170px;
+}
+
+.about-me__text{
+  color: #24437d;
+  margin-top: 150px;
+}
